@@ -4,3 +4,5 @@ Note! If you're getting error code `202` with DuckDuckGo_Search, you need to dow
 
 [![s2s](vid_screenshot.png)](https://youtu.be/9K51Leyv3qI)
 Click play to watch :)
+
+Run and test with Python 3.11.9
