@@ -6,3 +6,8 @@ Note! If you're getting error code `202` with DuckDuckGo_Search, you need to dow
 Click play to watch :)
 
 Run and test with Python 3.11.9
+
+'''Python
+# Convert Jupyter notebook to Python file
+jupytext --to py llama3_research_agent.ipynb 
+'''
