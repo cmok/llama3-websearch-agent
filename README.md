@@ -7,7 +7,5 @@ Click play to watch :)
 
 Run and test with Python 3.11.9
 
-'''Python
-# Convert Jupyter notebook to Python file
-jupytext --to py llama3_research_agent.ipynb 
-'''
+Convert Jupyter notebook to Python file
+>> jupytext --to py llama3_research_agent.ipynb 
